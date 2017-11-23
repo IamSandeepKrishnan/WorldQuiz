@@ -3,7 +3,9 @@ This is about a quiz of the world geography
 
  //////////copy from here //////////
 
-Array.append(Question(questionText: "Russia is the largest country in the world ", answer: true))
+
+
+            Array.append(Question(questionText: "Russia is the largest country in the world ", answer: true))
 
             Array.append(Question(questionText: "Antartica is near the north Pole ", answer: false))
 
